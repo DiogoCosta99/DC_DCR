@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python virtual environments
+.venv/
+dcr/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Recruitment case PDF
+DCR - Caso Prático.pdf
