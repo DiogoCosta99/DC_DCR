@@ -1,0 +1,2 @@
+Fonntes dos dados
+Tudo igual excepto dados de índices bolsistas, que foram retirados do investing.com porque os dados fornecidos pelo fed (sp500) e ecb (eurostoxx) eram insuficientes para fazer a análise pretendida (fred fornecia apenas dados de 2016 para a frente, ecb apenas dados mensais)
